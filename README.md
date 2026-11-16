@@ -1,6 +1,6 @@
 # Northeast Scrap Co.
 
-Website for Northeast Scrap Co., built with React, TypeScript, Vite, Tailwind CSS and Supabase.
+https://northeast-scrap-co.netlify.app/  Website for Northeast Scrap Co., built with React, TypeScript, Vite, Tailwind CSS and Supabase.
 
 ## Getting started
 
